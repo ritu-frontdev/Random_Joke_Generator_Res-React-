@@ -1,7 +1,7 @@
 {
   "name": "learning_react",
   "version": "0.1.0",
-  "homepage": "https://ritu-frontdev.github.io/Random_Joke_Generator_Res-React-",
+  "homepage": "https://ritu-frontdev.github.io/Random_Joke_Generator_Res-React-/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -16,7 +16,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b main -d build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

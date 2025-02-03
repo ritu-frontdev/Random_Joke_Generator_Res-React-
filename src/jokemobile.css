@@ -57,7 +57,6 @@
         width: 80rem;
         height: 3rem;
         font-size: 25px;
-        font-family: cursive;
         cursor: pointer;
         margin: auto;
         padding: auto;
@@ -65,7 +64,6 @@
     .pagetxt{
         font-size: 1.5rem;
         margin-top: 1.5rem;
-        font-family:cursive;
         padding: auto;
     }
     
@@ -135,7 +133,6 @@
         width: 80rem;
         height: 8vh;
         font-size: 30px;
-        font-family: cursive;
         cursor: pointer;
         margin: auto;
         padding: auto;
@@ -151,7 +148,6 @@
     .pagetxt{
         font-size: 2.5rem;
         margin-top: 2rem;
-        font-family:cursive;
         padding: auto;
     }
 }
@@ -209,7 +205,6 @@
         width: 90%;
         height: 8vh;
         font-size: 2.5rem;
-        font-family: cursive;
         cursor: pointer;
         margin: auto;
         padding: auto;
@@ -224,7 +219,6 @@
     .pagetxt{
         font-size: 2rem;
         margin-top: 2rem;
-        font-family:cursive;
         padding: auto;
     }
 } 
@@ -288,7 +282,6 @@
         width: 90%;
         height: 8vh;
         font-size: 2rem;
-        font-family: cursive;
         cursor: pointer;
         margin: auto;
         padding: auto;
@@ -303,7 +296,6 @@
     .pagetxt{
         font-size: 2rem;
         margin-top: 2rem;
-        font-family:cursive;
         padding: auto;
     }
 
@@ -369,7 +361,6 @@
         width: 88%;
         height: 8vh;
         font-size: 2rem;
-        font-family: cursive;
         cursor: pointer;
         margin: auto;
         padding: auto;
@@ -385,7 +376,6 @@
     .pagetxt{
         font-size: 2rem;
         margin-top: 2rem;
-        font-family:cursive;
         padding: auto;
     }
 }
@@ -451,7 +441,6 @@
         width: 90%;
         height: 8vh;
         font-size: 2rem;
-        font-family: cursive;
         cursor: pointer;
         margin: auto;
         padding: auto;
@@ -467,7 +456,6 @@
     .pagetxt{
         font-size: 2rem;
         margin-top: 2rem;
-        font-family:cursive;
         padding: auto;
     }
 }
@@ -529,7 +517,6 @@
         width: 95%;
         height: 8vh;
         font-size: 2.5rem;
-        font-family: cursive;
         cursor: pointer;
         margin: auto;
         padding: auto;
@@ -555,7 +542,6 @@
         width: 95%;
         height: 8vh;
         font-size: 2.5rem;
-        font-family: cursive;
         cursor: pointer;
         margin: auto;
         padding: auto;

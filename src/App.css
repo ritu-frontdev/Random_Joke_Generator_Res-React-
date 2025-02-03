@@ -80,7 +80,6 @@
     min-height: 2vh;
     max-height: 20vh;
     font-size: 20px;
-    font-family: cursive;
     cursor: pointer;
   }
 
@@ -92,7 +91,6 @@
   
   .pagetxt{
     font-size:"50rem" ;
-    font-family:"cursive"; 
     margin:auto ;
     margin-left:"0.5rem";
     justify-content:"center";
